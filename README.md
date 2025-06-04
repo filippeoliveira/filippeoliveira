@@ -36,4 +36,3 @@
   <p>Página Web para o meu Motoclub (dei inicio): <a href="https://htmlpreview.github.io/?https://github.com/filippeoliveira/motorium/blob/main/index.html"> MOTORIUM </a> </p>
 </details>
 
-<audio src="./assets/download/Motorhead_-_Brotherhood_Of_Man_(FeelMP3.com).mp3" preload="1" loop="1" autoplay="1"></audio>
