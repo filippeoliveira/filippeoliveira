@@ -7,7 +7,7 @@
   
 ## Dados de Contato  
 
-</summary>
+  </summary>
  <p> ✉️ <b> e-Mail</b>: filippe@ymail.com</p> 
  <p> 📱 <b> Whatsapp</b>: +55 (21) 97949-7788</p>
  <p> <img src="https://github.com/filippeoliveira/filippeoliveira/blob/main/Arquivos/linkedin.png"> &nbsp  <b> Linkedin</b>: <a href=https://www.linkedin.com/in/filippe-oliveira-2a997255/>Perfil Público</a></img> </p>
