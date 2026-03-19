@@ -9,7 +9,7 @@
 
   </summary>
  <p> ✉️ <b> e-Mail</b>: filippe@ymail.com</p> 
- <p> 📱 <b> <a href="https://wa.me/5521979497788"> Whatsapp </a></p>
+ <p> 📱 <b> WhatsApp <a href="https://wa.me/5521979497788"> Fale Comig </a></p>
  <p> <img src="https://github.com/filippeoliveira/filippeoliveira/blob/main/Arquivos/linkedin.png"> &nbsp  <b> Linkedin</b>: <a href=https://www.linkedin.com/in/filippe-oliveira-2a997255/>Perfil Público</a></img> </p>
  <p> 🏫 <b> Formação </b>: Cursando Analise de Sistema (Estacio 2025.1)</p>
  <p> 🏫 <b> Fonte de Aprendizado</b>: Pegando experiência com a <a href="https://www.dio.me/users/filippeoliveira">DIO</a> </p>
